@@ -1,0 +1,103 @@
+.navbar-nav .nav-link {
+    font-size: 20px;
+}
+
+.navbar{
+  position: fixed;
+}
+
+/* .my-div {
+    margin-top: 31px;
+    margin-bottom: 31px;
+} */
+
+.buttonbooknow{
+  margin-bottom: -70px;
+  margin-left:1000px;
+}
+
+.btnlogin{
+  font-weight: bold;
+  font-size: 20px;
+  color:#fff;
+  border: transparent;
+  width: 94px; 
+  height: 44px;
+  background-color: #FF5733;
+}
+.btnlogin:hover {
+  background-color: #FF1833;
+}
+
+.login-btn {
+    width: 100px;
+    height: 84px;
+    float: right;
+    background-color: #FF5733;
+    color: #fff;
+}
+
+.login-btn:hover {
+    background-color: #FF1833;
+}
+
+.navbar-brand{
+  margin-left:20px;
+}
+
+.carousel-item{
+
+
+}
+.d-block{
+  width:1226px;
+  height:575px;
+  margin-left: 100px;
+}
+
+.carousel-control-prev, .carousel-control-next {
+
+  margin-right: 50px; /* sesuaikan dengan nilai margin yang diinginkan */
+  margin-left: 45px; /* sesuaikan dengan nilai margin yang diinginkan */
+}
+
+.carousel-caption {
+  width: 100%;
+  margin-left: -610px;
+  margin-bottom: 4px;
+}
+
+.belluno{
+  margin-left:-67px;
+}
+
+.waialua{
+  margin-left:-20px;
+}
+
+.judul1{
+  margin-top:40px;
+}
+
+.carousel-control-prev-icon {
+
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E") !important;
+ }
+ 
+ .carousel-control-next-icon {
+   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important;
+ }
+
+.card1{
+  margin-top: 500px;
+}
+
+.cardzoom{
+  
+  height: 370px;
+}
+
+.cardzoom:hover{
+  transform: 
+
+}
