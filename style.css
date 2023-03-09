@@ -3,7 +3,7 @@
 }
 
 .navbar{
-  position: fixed;
+  position: sticky;
 }
 
 /* .my-div {
@@ -12,8 +12,11 @@
 } */
 
 .buttonbooknow{
-  margin-bottom: -70px;
-  margin-left:1000px;
+  text-align: right;
+  width 139px;
+  height: 44px;
+  margin-bottom: -80px;
+  margin-left:1370px;
 }
 
 .btnlogin{
@@ -45,20 +48,18 @@
   margin-left:20px;
 }
 
-.carousel-item{
 
-
-}
 .d-block{
-  width:1226px;
+  width:1220px;
   height:575px;
-  margin-left: 100px;
+  margin-left: 120px;
+
 }
 
 .carousel-control-prev, .carousel-control-next {
 
-  margin-right: 50px; /* sesuaikan dengan nilai margin yang diinginkan */
-  margin-left: 45px; /* sesuaikan dengan nilai margin yang diinginkan */
+  margin-right: 80px; /* sesuaikan dengan nilai margin yang diinginkan */
+  margin-left: 70px; /* sesuaikan dengan nilai margin yang diinginkan */
 }
 
 .carousel-caption {
@@ -93,11 +94,11 @@
 }
 
 .cardzoom{
-  
-  height: 370px;
+  transition: .3s;
 }
 
 .cardzoom:hover{
-  transform: 
-
+  transform: scale(1.1)
 }
+
+
